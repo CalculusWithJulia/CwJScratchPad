@@ -1,0 +1,4 @@
+[deps]
+CalculusWithJulia = "a2e0e22d-7d4c-5312-9169-8b992201a882"
+Measures = "442fdcdd-2543-5da2-b0f3-8c86c306513e"
+Unitful = "1986cc42-f94f-5a68-af5c-568840ba703d"
